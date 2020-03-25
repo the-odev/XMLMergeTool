@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <connectionStrings>
+    <add name="TestBusiness.Properties.Settings.ServerConnectionString"
+      connectionString="Data Source=R2D2;Initial Catalog=SoleaTA;Persist Security Info=True;User ID=SoleaDbo;Password=SoleaDbo"
+      providerName="System.Data.SqlClient" />
+    <add name="TestBusiness.Properties.Settings.EmbeddedTestConnectionString"
+      connectionString="Data Source=Database\SoleaEmbedded.sdf" providerName="Microsoft.SqlServerCe.Client.3.5" />
+    <add name="TestBusiness.Properties.Settings.SoleaEmbeddedConnectionString"
+      connectionString="Data Source=|DataDirectory|\Database\SoleaEmbedded.sdf"
+      providerName="Microsoft.SqlServerCe.Client.3.5" />
+    <add name="TestBusiness.Properties.Settings.SoleaServerConnectionString"
+      connectionString="Data Source=R2D2;Initial Catalog=SoleaTA;Persist Security Info=True;User ID=SoleaDbo;Password=SoleaDbo"
+      providerName="System.Data.SqlClient" />
+  </connectionStrings>
+,sdqlklsqdl,k
+  <appSettings>
+    <add key="ServerLauncher" value="R2D2"/>
+    <add key="PortNumber" value="8000"/>
+  </appSettings>
+</configuration>

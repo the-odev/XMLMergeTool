@@ -1,0 +1,12 @@
+C:\SVN\Tools\Project\XMLMergeTool\TestMergeXML\bin\Debug\TestsFiles\FileToMerge.xml
+C:\SVN\Tools\Project\XMLMergeTool\TestMergeXML\bin\Debug\TestMergeXML.dll
+C:\SVN\Tools\Project\XMLMergeTool\TestMergeXML\bin\Debug\TestMergeXML.pdb
+C:\SVN\Tools\Project\XMLMergeTool\TestMergeXML\bin\Debug\MergeXML.exe
+C:\SVN\Tools\Project\XMLMergeTool\TestMergeXML\bin\Debug\MergeXML.pdb
+C:\SVN\Tools\Project\XMLMergeTool\TestMergeXML\obj\Debug\TestMergeXML.csprojResolveAssemblyReference.cache
+C:\SVN\Tools\Project\XMLMergeTool\TestMergeXML\obj\Debug\TestMergeXML.Properties.Resources.resources
+C:\SVN\Tools\Project\XMLMergeTool\TestMergeXML\obj\Debug\TestMergeXML.csproj.GenerateResource.Cache
+C:\SVN\Tools\Project\XMLMergeTool\TestMergeXML\obj\Debug\TestMergeXML.dll
+C:\SVN\Tools\Project\XMLMergeTool\TestMergeXML\obj\Debug\TestMergeXML.pdb
+C:\SVN\Tools\Project\XMLMergeTool\TestMergeXML\bin\Debug\nunit.framework.dll
+C:\SVN\Tools\Project\XMLMergeTool\TestMergeXML\bin\Debug\nunit.framework.xml

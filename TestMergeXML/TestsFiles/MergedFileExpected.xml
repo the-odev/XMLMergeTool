@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="WarningLevel" value="" />
+    <add key="StopLevel" value="114" />
+    <add key="MinimumJauge" value="110" />
+    <add key="MaximumJauge" value="130" />
+    <add key="Frequence" value="00:00:10" />
+    <add key="ShutdownTimer" value="00:10:00" />
+    <add key="VoltageCorrection" value="4" />
+    <add key="IndicatorId" value="" />
+    <add key="TruckName" value="" />
+    <add key="DefaultISOCodeLanguage" value="" />
+    <add key="PortNumber" value="8000" />
+    <add key="ServerLauncher" value="R2D2" />
+  </appSettings>
+  <connectionStrings>
+    <add name="TestBusiness.Properties.Settings.ServerConnectionString" connectionString="Data Source=R2D2;Initial Catalog=SoleaTA;Persist Security Info=True;User ID=SoleaDbo;Password=SoleaDbo" providerName="System.Data.SqlClient" />
+    <add name="TestBusiness.Properties.Settings.EmbeddedTestConnectionString" connectionString="Data Source=Database\SoleaEmbedded.sdf" providerName="Microsoft.SqlServerCe.Client.3.5" />
+    <add name="TestBusiness.Properties.Settings.SoleaEmbeddedConnectionString" connectionString="Data Source=|DataDirectory|\Database\SoleaEmbedded.sdf" providerName="Microsoft.SqlServerCe.Client.3.5" />
+    <add name="TestBusiness.Properties.Settings.SoleaServerConnectionString" connectionString="Data Source=R2D2;Initial Catalog=SoleaTA;Persist Security Info=True;User ID=SoleaDbo;Password=SoleaDbo" providerName="System.Data.SqlClient" />
+  </connectionStrings>
+</configuration>

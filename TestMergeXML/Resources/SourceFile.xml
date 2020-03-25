@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="WarningLevel" value=""/>
+    <add key="StopLevel" value="114"/>
+    <add key="MinimumJauge" value="110"/>
+    <add key="MaximumJauge" value="130"/>
+    <add key="Frequence" value="00:00:10"/>
+    <add key="ShutdownTimer" value="00:10:00"/>
+    <add key="VoltageCorrection" value="4"/>
+    <add key="IndicatorId" value="" />
+    <add key="TruckName" value="" />
+    <add key="DefaultISOCodeLanguage" value="" />
+    <add key="PortNumber" value=""/>
+  </appSettings>
+</configuration>

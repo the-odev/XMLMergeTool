@@ -1,0 +1,6 @@
+C:\SVN\Tools\Project\XMLMergeTool\MergeXML\bin\Debug\MergeXML.exe
+C:\SVN\Tools\Project\XMLMergeTool\MergeXML\bin\Debug\MergeXML.pdb
+C:\SVN\Tools\Project\XMLMergeTool\MergeXML\obj\Debug\MergeXML.exe
+C:\SVN\Tools\Project\XMLMergeTool\MergeXML\obj\Debug\MergeXML.pdb
+C:\SVN\Tools\Project\XMLMergeTool\MergeXML\bin\Debug\MergeXML.exe.config
+C:\SVN\Tools\Project\XMLMergeTool\MergeXML\obj\Debug\MergeXML.csprojResolveAssemblyReference.cache

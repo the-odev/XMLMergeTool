@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeXML", "MergeXML\MergeXML.csproj", "{662B6159-25DE-4112-A911-93C2BCEDC040}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{89E75EC0-ADF7-4F4F-8FFA-557BA7553344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMergeXML", "TestMergeXML\TestMergeXML.csproj", "{FE1976FE-A22A-4768-B153-A4B2D82FA723}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1388137A-F0FA-414D-999B-5A3E122437B0}"
+	ProjectSection(SolutionItems) = preProject
+		Settings.StyleCop = Settings.StyleCop
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{662B6159-25DE-4112-A911-93C2BCEDC040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662B6159-25DE-4112-A911-93C2BCEDC040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662B6159-25DE-4112-A911-93C2BCEDC040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662B6159-25DE-4112-A911-93C2BCEDC040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE1976FE-A22A-4768-B153-A4B2D82FA723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1976FE-A22A-4768-B153-A4B2D82FA723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1976FE-A22A-4768-B153-A4B2D82FA723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1976FE-A22A-4768-B153-A4B2D82FA723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FE1976FE-A22A-4768-B153-A4B2D82FA723} = {89E75EC0-ADF7-4F4F-8FFA-557BA7553344}
+	EndGlobalSection
+EndGlobal
